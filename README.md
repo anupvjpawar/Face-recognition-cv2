@@ -20,7 +20,18 @@ To get started with this project, you need to install the required Python packag
 
 bash
 Copy code
+
+
+
+
+
+
 pip install face_recognition opencv-python numpy
+
+
+
+
+
 Additionally, you must have CMake installed on your system to build some dependencies. You can download it from cmake.org.
 
 Usage
